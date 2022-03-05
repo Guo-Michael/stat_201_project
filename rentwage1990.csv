@@ -1,0 +1,143 @@
+﻿REF_DATE,City,Province,DGUID,Type of structure,Type of unit,UOM,UOM_ID,SCALAR_FACTOR,SCALAR_ID,VECTOR,COORDINATE,VALUE,STATUS,SYMBOL,TERMINATED,DECIMALS,Minimum Wage
+1990,Gander,Newfoundland and Labrador,2011A00051006009,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824688,3.4.2,389.00,,,,0,4.25
+1990,Grand Falls-Windsor,Newfoundland and Labrador,2011S0504010,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824742,4.4.2,417.00,,,,0,4.25
+1990,Labrador City,Newfoundland and Labrador,2011A00051010032,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824749,5.4.2,287.00,,,t,0,4.25
+1990,St. John's,Newfoundland and Labrador,2011S0503001,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824626,6.4.2,479.00,,,,0,4.25
+1990,Charlottetown,Prince Edward Island,2011S0504105,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824640,7.4.2,390.00,,,,0,4.5
+1990,Summerside,Prince Edward Island,2011S0504110,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824777,8.4.2,378.00,,,,0,4.5
+1990,Cape Breton,Nova Scotia,2011S0504225,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824667,9.4.2,343.00,,,,0,4.5
+1990,Halifax,Nova Scotia,2011S0503205,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824613,10.4.2,485.00,,,,0,4.5
+1990,New Glasgow,Nova Scotia,2011S0504220,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824757,13.4.2,355.00,,,,0,4.5
+1990,Truro,Nova Scotia,2011S0504215,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824785,14.4.2,368.00,,,,0,4.5
+1990,Bathurst,New Brunswick,2011S0504328,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824730,15.4.2,321.00,,,,0,4.75
+1990,Campbellton,New Brunswick,2011S050613330,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824733,16.4.2,324.00,,,,0,4.75
+1990,Edmundston,New Brunswick,2011S0504335,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824739,17.4.2,299.00,,,,0,4.75
+1990,Fredericton,New Brunswick,2011S0504320,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824646,18.4.2,435.00,,,,0,4.75
+1990,Moncton,New Brunswick,2011S0503305,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824655,20.4.2,389.00,,,,0,4.75
+1990,Saint John,New Brunswick,2011S0503310,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824625,22.4.2,356.00,,,,0,4.75
+1990,Alma,Quebec,2011S0504410,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824669,23.4.2,304.00,,,,0,5.3
+1990,Baie-Comeau,Quebec,2011S0504406,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824729,26.4.2,388.00,,,,0,5.3
+1990,Cowansville,Quebec,2011S0504437,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824678,31.4.2,305.00,,,,0,5.3
+1990,Dolbeau-Mistassini,Quebec,2011S0504411,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824737,32.4.2,267.00,,,,0,5.3
+1990,Drummondville,Quebec,2011S0504447,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824645,33.4.2,316.00,,,,0,5.3
+1990,Gaspé,Quebec,2011A00052403005,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824689,34.4.2,368.00,,,,0,5.3
+1990,Ottawa-Gatineau,Quebec,2011S050524505,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824621,37.4.2,441.00,,,,0,5.3
+1990,Granby,Quebec,2011S0504450,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824647,35.4.2,339.00,,,,0,5.3
+1990,Joliette,Quebec,2011S0504456,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824745,38.4.2,325.00,,,,0,5.3
+1990,La Tuque,Quebec,2006S0504446,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824751,40.4.2,271.00,,,,0,5.3
+1990,Lachute,Quebec,2011S0504468,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824750,41.4.2,302.00,,,,0,5.3
+1990,Magog,Quebec,2011A00052445072,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824754,42.4.2,291.00,,,t,0,5.3
+1990,Matane,Quebec,2011S0504403,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824700,43.4.2,320.00,,,,0,5.3
+1990,Montmagny,Quebec,2011A00052418050,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824704,45.4.2,321.00,,,,0,5.3
+1990,Montréal,Quebec,2011S0503462,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824617,46.4.2,440.00,,,,0,5.3
+1990,Québec,Quebec,2011S0503421,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824623,48.4.2,440.00,,,,0,5.3
+1990,Rimouski,Quebec,2011S0504404,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824769,49.4.2,387.00,,,,0,5.3
+1990,Rivière-du-Loup,Quebec,2011S0504405,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824770,50.4.2,312.00,,,,0,5.3
+1990,Roberval,Quebec,2011A00052491025,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824713,51.4.2,316.00,,,,0,5.3
+1990,Rouyn-Noranda,Quebec,2011S0504485,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824771,52.4.2,337.00,,,,0,5.3
+1990,Saint-Georges,Quebec,2011S0504428,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824772,59.4.2,281.00,,,,0,5.3
+1990,Saint-Hyacinthe,Quebec,2011S0504452,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824661,60.4.2,338.00,,,,0,5.3
+1990,Saint-Jean-sur-Richelieu,Quebec,2011S0504459,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824662,61.4.2,352.00,,,,0,5.3
+1990,Saint-Jérôme,Quebec,2011A00052475017,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824663,62.4.2,369.00,,,t,0,5.3
+1990,Saguenay,Quebec,2011S0503408,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824611,30.4.2,384.00,,,,0,5.3
+1990,Salaberry-de-Valleyfield,Quebec,2011S0504465,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824787,53.4.2,330.00,,,,0,5.3
+1990,Sept-Îles,Quebec,2011S0504412,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824773,54.4.2,371.00,,,,0,5.3
+1990,Shawinigan,Quebec,2011S0504444,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824666,55.4.2,285.00,,,,0,5.3
+1990,Sherbrooke,Quebec,2011S0503433,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824628,56.4.2,346.00,,,,0,5.3
+1990,Sorel-Tracy,Quebec,2011S0504454,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824775,57.4.2,349.00,,,,0,5.3
+1990,Thetford Mines,Quebec,2011S0504430,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824780,63.4.2,257.00,,,,0,5.3
+1990,Trois-Rivières,Quebec,2011S0503442,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824632,64.4.2,335.00,,,,0,5.3
+1990,Val-d'Or,Quebec,2011S0504480,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824786,65.4.2,350.00,,,,0,5.3
+1990,Victoriaville,Quebec,2011S0504440,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824788,66.4.2,294.00,,,,0,5.3
+1990,Barrie,Ontario,2011S0503568,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824637,67.4.2,535.00,,,,0,5.4
+1990,Belleville,Ontario,2011S0504522,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824638,68.4.2,463.00,,,,0,5.4
+1990,Brantford,Ontario,2011S0503543,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824639,70.4.2,437.00,,,,0,5.4
+1990,Brockville,Ontario,2011S0504512,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824731,71.4.2,410.00,,,,0,5.4
+1990,Chatham-Kent,Ontario,2011S0504556,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824641,72.4.2,422.00,,,,0,5.4
+1990,Cobourg,Ontario,2011S0504527,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824735,73.4.2,496.00,,,,0,5.4
+1990,Collingwood,Ontario,2011S0504567,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824677,74.4.2,455.00,,,,0,5.4
+1990,Cornwall,Ontario,2011S0504501,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824643,75.4.2,424.00,,,,0,5.4
+1990,Elliot Lake,Ontario,2011S0504582,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824682,77.4.2,350.00,,,,0,5.4
+1990,Greater Sudbury,Ontario,2011S0503580,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824629,121.4.2,430.00,,,,0,5.4
+1990,Guelph,Ontario,2011S0503550,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824648,81.4.2,491.00,,,,0,5.4
+1990,Hamilton,Ontario,2011S0503537,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824614,85.4.2,433.00,,,,0,5.4
+1990,Hawkesbury,Ontario,2011S050635502,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824744,86.4.2,385.00,,,,0,5.4
+1990,Huntsville,Ontario,2011A00053544042,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824693,87.4.2,425.00,,,,0,5.4
+1990,Kapuskasing,Ontario,2011A00053556066,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824694,88.4.2,313.00,,,t,0,5.4
+1990,Kawartha Lakes,Ontario,2011S0504530,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824753,95.4.2,494.00,,,,0,5.4
+1990,Kenora,Ontario,2011S0504598,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824746,89.4.2,437.00,,,,0,5.4
+1990,Kingston,Ontario,2011S0503521,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824651,90.4.2,461.00,,,,0,5.4
+1990,Kirkland Lake,Ontario,2011A00053554068,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824695,91.4.2,296.00,,,t,0,5.4
+1990,Kitchener-Cambridge-Waterloo,Ontario,2011S0503541,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824615,92.4.2,443.00,,,,0,5.4
+1990,Leamington,Ontario,2011S0504557,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824752,93.4.2,457.00,,,,0,5.4
+1990,London,Ontario,2011S0503555,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824616,96.4.2,447.00,,,,0,5.4
+1990,Midland,Ontario,2011S0504571,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824755,97.4.2,452.00,,,,0,5.4
+1990,Nanticoke,Ontario,,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824706,99.4.2,355.00,,,t,0,5.4
+1990,North Bay,Ontario,2011S0504575,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824657,101.4.2,432.00,,,,0,5.4
+1990,Orillia,Ontario,2011S0504569,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824759,103.4.2,499.00,,,,0,5.4
+1990,Oshawa,Ontario,2011S0503532,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824619,104.4.2,536.00,,,,0,5.4
+1990,Ottawa-Gatineau,Ontario,2011S0503505,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824620,105.4.2,503.00,,,,0,5.4
+1990,Ottawa-Gatineau,Ontario,2011S050535505,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824622,106.4.2,511.00,,,,0,5.4
+1990,Owen Sound,Ontario,2011S0504566,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824761,107.4.2,431.00,,,,0,5.4
+1990,Pembroke,Ontario,2011S0504515,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824762,108.4.2,416.00,,,,0,5.4
+1990,Peterborough,Ontario,2011S0503529,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824658,110.4.2,496.00,,,,0,5.4
+1990,Port Hope,Ontario,2011S0504528,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824711,111.4.2,581.00,,,,0,5.4
+1990,St. Catharines-Niagara,Ontario,2011S0503539,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824618,117.4.2,450.00,,,,0,5.4
+1990,Sarnia,Ontario,2011S0504562,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824664,112.4.2,445.00,,,,0,5.4
+1990,Sault Ste. Marie,Ontario,2011S0504590,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824665,113.4.2,456.00,,,,0,5.4
+1990,Stratford,Ontario,2011S0504553,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824776,119.4.2,423.00,,,,0,5.4
+1990,Thunder Bay,Ontario,2011S0503595,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824630,122.4.2,476.00,,,,0,5.4
+1990,Tillsonburg,Ontario,2011S0504546,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824782,123.4.2,411.00,,,,0,5.4
+1990,Timmins,Ontario,2011S0504586,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824721,124.4.2,496.00,,,,0,5.4
+1990,Toronto,Ontario,2011S0503535,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824631,125.4.2,557.00,,,,0,5.4
+1990,Wallaceburg,Ontario,,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824722,127.4.2,455.00,,,t,0,5.4
+1990,Windsor,Ontario,2011S0503559,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824635,128.4.2,485.00,,,,0,5.4
+1990,Woodstock,Ontario,2011S0504544,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824723,129.4.2,423.00,,,,0,5.4
+1990,Brandon,Manitoba,2011S0504610,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824673,130.4.2,394.00,,,,0,4.7
+1990,Portage La Prairie,Manitoba,2011S0504607,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824763,131.4.2,427.00,,,,0,4.7
+1990,Thompson,Manitoba,2011S0504640,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824781,133.4.2,378.00,,,,0,4.7
+1990,Winnipeg,Manitoba,2011S0503602,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824636,134.4.2,423.00,,,,0,4.7
+1990,Estevan,Saskatchewan,2011S0504750,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824684,135.4.2,371.00,,,,0,5
+1990,Lloydminster,Saskatchewan,2011S050647840,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824793,136.4.2,354.00,,,,0,5
+1990,Moose Jaw,Saskatchewan,2011S0504715,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824756,137.4.2,332.00,,,,0,5
+1990,North Battleford,Saskatchewan,2011S0504735,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824758,138.4.2,317.00,,,,0,5
+1990,Prince Albert,Saskatchewan,2011S0504745,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824766,139.4.2,360.00,,,,0,5
+1990,Regina,Saskatchewan,2011S0503705,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824624,140.4.2,391.00,,,,0,5
+1990,Saskatoon,Saskatchewan,2011S0503725,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824627,141.4.2,363.00,,,,0,5
+1990,Swift Current,Saskatchewan,2011S0504720,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824778,142.4.2,322.00,,,,0,5
+1990,Yorkton,Saskatchewan,2011S0504710,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824724,144.4.2,355.00,,,,0,5
+1990,Calgary,Alberta,2011S0503825,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824610,146.4.2,458.00,,,,0,4.5
+1990,Camrose,Alberta,2011S0504833,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824675,147.4.2,345.00,,,,0,4.5
+1990,Edmonton,Alberta,2011S0503835,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824612,148.4.2,414.00,,,,0,4.5
+1990,Grande Prairie,Alberta,2011S0504850,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824691,151.4.2,434.00,,,,0,4.5
+1990,Lethbridge,Alberta,2011S0504810,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824652,153.4.2,426.00,,,,0,4.5
+1990,Lloydminster,Alberta,2011S050648840,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824699,154.4.2,343.00,,,,0,4.5
+1990,Medicine Hat,Alberta,2011S0504805,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824654,155.4.2,321.00,,,,0,4.5
+1990,Red Deer,Alberta,2011S0504830,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824660,156.4.2,413.00,,,,0,4.5
+1990,Wetaskiwin,Alberta,2011S0504865,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824726,158.4.2,343.00,,,,0,4.5
+1990,Wood Buffalo,Alberta,2011S0504860,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824685,149.4.2,437.00,,,,0,4.5
+1990,Abbotsford-Mission,British Columbia,2011S0503932,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824653,159.4.2,451.00,,,,0,5
+1990,Campbell River,British Columbia,2011S0504944,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824732,161.4.2,400.00,,,,0,5
+1990,Chilliwack,British Columbia,2011S0504930,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824642,162.4.2,432.00,,,,0,5
+1990,Courtenay,British Columbia,2011S0504943,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824644,163.4.2,405.00,,,,0,5
+1990,Cranbrook,British Columbia,2011S0504905,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824679,164.4.2,348.00,,,,0,5
+1990,Dawson Creek,British Columbia,2011S0504975,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824680,165.4.2,336.00,,,,0,5
+1990,Duncan,British Columbia,2011S0504937,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824738,166.4.2,394.00,,,,0,5
+1990,Fort St. John,British Columbia,2011S0504977,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824686,167.4.2,324.00,,,,0,5
+1990,Kamloops,British Columbia,2011S0504925,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824649,168.4.2,371.00,,,,0,5
+1990,Kelowna,British Columbia,2011S0503915,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824650,169.4.2,406.00,,,,0,5
+1990,Kitimat,British Columbia,2006S0504960,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824748,170.4.2,323.00,,,t,0,5
+1990,Nanaimo,British Columbia,2011S0504938,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824656,172.4.2,425.00,,,,0,5
+1990,Penticton,British Columbia,2011S0504913,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824710,174.4.2,359.00,,,,0,5
+1990,Port Alberni,British Columbia,2011S0504940,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824764,175.4.2,310.00,,,,0,5
+1990,Powell River,British Columbia,2011S0504945,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824765,176.4.2,394.00,,,,0,5
+1990,Prince George,British Columbia,2011S0504970,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824659,177.4.2,427.00,,,,0,5
+1990,Prince Rupert,British Columbia,2011S0504955,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824767,178.4.2,430.00,,,,0,5
+1990,Quesnel,British Columbia,2011S0504952,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824768,179.4.2,332.00,,,,0,5
+1990,Salmon Arm,British Columbia,2011S0504920,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824716,180.4.2,342.00,,,,0,5
+1990,Squamish,British Columbia,2011S0504934,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824720,181.4.2,415.00,,,,0,5
+1990,Terrace,British Columbia,2011S0504965,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824779,182.4.2,399.00,,,,0,5
+1990,Vancouver,British Columbia,2011S0503933,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824633,184.4.2,566.00,,,,0,5
+1990,Vernon,British Columbia,2011S0504918,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824668,185.4.2,381.00,,,,0,5
+1990,Victoria,British Columbia,2011S0503935,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824634,186.4.2,488.00,,,,0,5
+1990,Williams Lake,British Columbia,2011S0504950,Apartment structures of six units and over,One bedroom units,Dollars,81,units,0,v3824789,187.4.2,343.00,,,,0,5
